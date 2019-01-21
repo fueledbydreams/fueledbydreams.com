@@ -1,0 +1,17 @@
+{
+  "alias": [
+    "fueledbydreams.com",
+    "www.fueledbydreams.com"
+  ],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": {
+        "distDir": "public"
+      }
+    }
+  ],
+  "name": "fueledbydreams.com",
+  "version": 2
+}
