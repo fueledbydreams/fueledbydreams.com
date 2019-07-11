@@ -4291,9 +4291,9 @@ gatsby-page-utils@^0.0.2:
     micromatch "^3.1.10"
     slash "^1.0.0"
 
-gatsby-plugin-manifest@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.2.0.tgz#e16d39bd415026594465e1763cc2abd43729a7d1"
+gatsby-plugin-manifest@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.2.2.tgz#6ad9022b9265cc6f6edcd94cea60e7a2ad5495f1"
   dependencies:
     "@babel/runtime" "^7.0.0"
     semver "^5.6.0"
